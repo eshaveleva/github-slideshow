@@ -2,5 +2,10 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+hi|there
+--|--
+1|2
+*qqq66*
+gg|#guguyyg
+
 Use the left arrow to go back!
